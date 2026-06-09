@@ -1,19 +1,8 @@
-## Hi 👋, I'm Tushar Rathod
+ # Hi there, I'm Tushar Rathod
 
+### Aspiring Java Developer | B.Tech Computer Science Student
 
- Aspiring Java Developer
-🚀 Passionate about building scalable backend applications and continuously improving my problem-solving skills.
-
-👨‍💻 About Me
-
-🎓 Currently pursuing B.Tech in Computer Science & Engineering
-
-☕ Strong interest in Java Backend Development
-
-🌱 Learning and practicing Core Java, Advanced Java, Spring Boot, JDBC, Hibernate
-
-🎯 Career Goal: Become a Professional Java Developer
-
+I am a passionate software development enthusiast with a strong focus on **Java** and **backend technologies**. Currently, I am dedicated to deep-diving into modern frameworks, architecting personal projects, and sharpening my problem-solving skills to build scalable backend applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tushar1682003@gmail.com) 
