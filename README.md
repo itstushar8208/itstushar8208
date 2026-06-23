@@ -3,9 +3,16 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Projects+and+Learning+Daily" />
 </div>
- <h3 align="center">
- Java Full Stack Developer | Spring Boot | React | MySQL | Docker
-</h3>
+
+ <div align="center">
+
+### Aspiring Software Developer
+
+Specializing in Java Full Stack Development
+
+Spring Boot • React • MySQL • Docker
+
+</div>
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tushar1682003@gmail.com) 
