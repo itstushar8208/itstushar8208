@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Projects+and+Learning+Daily" />
 </div>
- ### Aspiring Java Full Stack Developer | B.Tech Computer Science Student
+
  Java | Spring Boot | React | MySQL | Docker
  
 ## 🌐 Socials:
@@ -71,6 +71,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=itstushar8208&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Thanks for visiting my profile! 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username={github_username}&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
