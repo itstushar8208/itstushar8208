@@ -3,8 +3,19 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Projects+and+Learning+Daily" />
 </div>
+ <div align="center">
 
- Java | Spring Boot | React | MySQL | Docker
+### Aspiring Java Full Stack Developer
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+</div>
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tushar1682003@gmail.com) 
@@ -70,10 +81,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itstushar8208&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username={github_username}&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me;Let's+build+something+amazing+together!" alt="Typing SVG" />
