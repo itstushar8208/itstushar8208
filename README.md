@@ -8,10 +8,6 @@
 
 ### Aspiring Software Developer
 
-Specializing in Java Full Stack Development
-
-Spring Boot • React • MySQL • Docker
-
 </div>
  
 ## 🌐 Socials:
