@@ -1,14 +1,9 @@
-# Hi, I'm Tushar Rathod
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Aspiring+Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Projects+and+Learning+Daily" />
-</div>
 
- <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Rathod&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Tushar Rathod"/>
 
-### Aspiring Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Java+Full-Stack+Developer;Secure+REST+APIs+with+Spring+Boot;Open+to+Java+fresher+and+internship+roles" alt="Typing animation"/>
 
-</div>
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-rathod-755142300) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tushar1682003@gmail.com) 
